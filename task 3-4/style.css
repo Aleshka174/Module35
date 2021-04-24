@@ -1,0 +1,12 @@
+.table{
+	margin-top: 20px;
+}
+
+tr {
+	border: solid;
+}
+
+td {
+	border: solid;
+	text-align: center
+}
